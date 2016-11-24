@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\common\bin\cspybat" -f "C:\Users\rasmu\Downloads\QuadroHT15_v2-1\EWARM\settings\QuadroHT15_v2-1.QuadroHT15_v2-1_Configuration.general.xcl" --backend -f "C:\Users\rasmu\Downloads\QuadroHT15_v2-1\EWARM\settings\QuadroHT15_v2-1.QuadroHT15_v2-1_Configuration.driver.xcl" 
+"E:\Program\IAR embedded workbench 7.8\common\bin\cspybat" -f "C:\Users\Johan\Documents\GitHub\quadcopter-flight-controller\QuadroHT15_v2-1\EWARM\settings\QuadroHT15_v2-1.QuadroHT15_v2-1_Configuration.general.xcl" --backend -f "C:\Users\Johan\Documents\GitHub\quadcopter-flight-controller\QuadroHT15_v2-1\EWARM\settings\QuadroHT15_v2-1.QuadroHT15_v2-1_Configuration.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\common\bin\cspybat" -f "C:\Users\rasmu\Downloads\QuadroHT15_v2-1\EWARM\settings\QuadroHT15_v2-1.QuadroHT15_v2-1_Configuration.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\rasmu\Downloads\QuadroHT15_v2-1\EWARM\settings\QuadroHT15_v2-1.QuadroHT15_v2-1_Configuration.driver.xcl" 
+"E:\Program\IAR embedded workbench 7.8\common\bin\cspybat" -f "C:\Users\Johan\Documents\GitHub\quadcopter-flight-controller\QuadroHT15_v2-1\EWARM\settings\QuadroHT15_v2-1.QuadroHT15_v2-1_Configuration.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\Johan\Documents\GitHub\quadcopter-flight-controller\QuadroHT15_v2-1\EWARM\settings\QuadroHT15_v2-1.QuadroHT15_v2-1_Configuration.driver.xcl" 
 
 @echo off 
 :end

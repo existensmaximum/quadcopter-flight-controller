@@ -1,14 +1,14 @@
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armproc.dll" 
+"E:\Program\IAR embedded workbench 7.8\arm\bin\armproc.dll" 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armstlink2.dll" 
+"E:\Program\IAR embedded workbench 7.8\arm\bin\armstlink2.dll" 
 
-"C:\Users\rasmu\Downloads\QuadroHT15_v2-1\EWARM\QuadroHT15_v2-1_Configuration\Exe\QuadroHT15_v2-1 Configuration.out" 
+"C:\Users\Johan\Documents\GitHub\quadcopter-flight-controller\QuadroHT15_v2-1\EWARM\QuadroHT15_v2-1_Configuration\Exe\QuadroHT15_v2-1 Configuration.out" 
 
---plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armbat.dll" 
+--plugin "E:\Program\IAR embedded workbench 7.8\arm\bin\armbat.dll" 
 
---device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\config\debugger\ST\STM32F3xx.dmac" 
+--device_macro "E:\Program\IAR embedded workbench 7.8\arm\config\debugger\ST\STM32F3xx.dmac" 
 
---flash_loader "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\config\flashloader\ST\FlashSTM32F3xxxB.board" 
+--flash_loader "E:\Program\IAR embedded workbench 7.8\arm\config\flashloader\ST\FlashSTM32F3xxxB.board" 
 
 
 
